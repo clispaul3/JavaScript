@@ -1,0 +1,22 @@
+{
+    "root": {
+        "data": {
+            "id": "bu2yt0kc78o0",
+            "created": 1557824806907,
+            "text": "设计模式"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "bu2yt5v5jnc0",
+                    "created": 1557824818445,
+                    "text": "依赖注入"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
