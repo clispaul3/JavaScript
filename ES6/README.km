@@ -1,0 +1,39 @@
+{
+    "root": {
+        "data": {
+            "id": "bu2wm5b5rs00",
+            "created": 1557818626467,
+            "text": "ES6"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "bu2wmfr8o0g0",
+                    "created": 1557818649207,
+                    "text": "变量声明"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bu2wt0zmbvs0",
+                            "created": 1557819165611,
+                            "text": "let"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bu2wt3g575k0",
+                            "created": 1557819170964,
+                            "text": "const"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "structure",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
