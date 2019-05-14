@@ -1,3 +1,4 @@
 node_modules/
 !.gitkeep
 ES6/*.js
+设计模式/*.js
