@@ -9,3 +9,13 @@
 
 ## 浏览器相关
   - [路由](./浏览器相关/路由.md)
+
+## git
+### 删除远程仓库的文件
+  - git rm -f --cache ./index.html
+  - git commit -m 'delete ./index.html'
+  - git push
+### 删除远程仓库的目录
+  - git rm -rf --cache ./node_modules
+  - git commit -m 'delete ./node_modules'
+  - git push

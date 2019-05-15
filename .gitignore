@@ -2,3 +2,5 @@ node_modules/
 !.gitkeep
 ES6/*.js
 设计模式/*.js
+浏览器相关/*.html
+package-lock.json
