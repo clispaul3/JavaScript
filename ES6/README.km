@@ -30,6 +30,47 @@
                         "children": []
                     }
                 ]
+            },
+            {
+                "data": {
+                    "id": "bu3km39seao0",
+                    "created": 1557886328668,
+                    "text": "访问修饰符"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "bu3kmgj958w0",
+                            "created": 1557886357539,
+                            "text": "静态属性"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bu3kmjpty8w0",
+                            "created": 1557886364467,
+                            "text": "静态方法"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bu3kmmkm5fs0",
+                            "created": 1557886370682,
+                            "text": "私有属性"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "bu3kmqj9m3s0",
+                            "created": 1557886379307,
+                            "text": "私有方法"
+                        },
+                        "children": []
+                    }
+                ]
             }
         ]
     },
